@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bcccb6-8863-402b-bcde-d1778fc2f80c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mensajes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MensajesDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MensajesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Persistencia_Platzi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MensajesDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MensajesDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MensajesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MensajesService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
