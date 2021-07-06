@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bcccb6-8863-402b-bcde-d1778fc2f80c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistencia_Platzi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/Mensajes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Persistencia_Platzi/MensajesService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conexion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mensajes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MensajesDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MensajesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
