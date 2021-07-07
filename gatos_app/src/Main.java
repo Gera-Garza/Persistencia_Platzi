@@ -2,28 +2,31 @@ import javax.swing.*;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException{
         int opcion_menu = -1;
-        String botones[] = {"1.- Ver gatos","2.- Salir"};
+        String[] botones = {" 1. ver gatos", "2. salir"};
+
         do{
 
-            //Menu principal
-            String opcion = (String) JOptionPane.showInputDialog(null,"Gatitos Java","Menu princial",
-                    JOptionPane.INFORMATION_MESSAGE,null,botones,botones[0]);
+            //menu principal
+            String opcion = (String) JOptionPane.showInputDialog(null, "Gatitos java", "Menu principal", JOptionPane.INFORMATION_MESSAGE,
+                    null, botones,botones[0]);
 
-           //validamos que opcion selecciona el usuario
-            for (int i = 0; i < botones.length; i++) {
-                if (opcion.equals(botones[i]))
+            //validamos que opcion selecciona el usuario
+            for(int i=0;i<botones.length;i++){
+                if(opcion.equals(botones[i])){
                     opcion_menu = i;
+                }
             }
 
-            switch (opcion_menu){
-                case 1:
+            switch(opcion_menu){
+                case 0:
                     GatosService.verGatos();
                     break;
                 default:
                     break;
             }
-        }while (opcion_menu !=2);
+        }while(opcion_menu != 1);
+
     }
 }
